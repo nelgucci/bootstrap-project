@@ -1,0 +1,19 @@
+.jumbotron {
+	height: 300px;
+	color: white;
+}
+
+
+/*.btn-success{
+	background: black;
+}
+.btn-success:hover:{
+	background: grey;
+}
+*/
+.computer-bg {
+	background-image: url('../images/mind.jpeg');
+	background-position: center;
+	background-size: cover;
+
+}

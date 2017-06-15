@@ -1,4 +1,3 @@
-# Bootstrap Template
+# Bootstrap Project #1
 
-this is a template using bootstrap 3. Remember to change github repo
-with $git remote set-url origin ...
+Uses Bootstrap and jQuery to create a jumbotron and show gif
